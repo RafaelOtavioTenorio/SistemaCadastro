@@ -1,0 +1,11 @@
+C:\Curso\SistemaCadrastro\SistemaCadrastro\bin\Debug\SistemaCadrastro.exe.config
+C:\Curso\SistemaCadrastro\SistemaCadrastro\bin\Debug\SistemaCadrastro.exe
+C:\Curso\SistemaCadrastro\SistemaCadrastro\bin\Debug\SistemaCadrastro.pdb
+C:\Curso\SistemaCadrastro\SistemaCadrastro\obj\Debug\SistemaCadrastro.csproj.AssemblyReference.cache
+C:\Curso\SistemaCadrastro\SistemaCadrastro\obj\Debug\SistemaCadrastro.csproj.SuggestedBindingRedirects.cache
+C:\Curso\SistemaCadrastro\SistemaCadrastro\obj\Debug\SistemaCadrastro.Form1.resources
+C:\Curso\SistemaCadrastro\SistemaCadrastro\obj\Debug\SistemaCadrastro.Properties.Resources.resources
+C:\Curso\SistemaCadrastro\SistemaCadrastro\obj\Debug\SistemaCadrastro.csproj.GenerateResource.cache
+C:\Curso\SistemaCadrastro\SistemaCadrastro\obj\Debug\SistemaCadrastro.csproj.CoreCompileInputs.cache
+C:\Curso\SistemaCadrastro\SistemaCadrastro\obj\Debug\SistemaCadrastro.exe
+C:\Curso\SistemaCadrastro\SistemaCadrastro\obj\Debug\SistemaCadrastro.pdb
